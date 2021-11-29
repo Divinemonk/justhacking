@@ -42,3 +42,25 @@ Command works for (& in) *Windows - Command Prompt | Linux & Mac OS - Terminal*
 git clone https://github.com/Divinemonk/justhacking/
 ```
 
+### Then follow these commands 
+```
+cd justhacking
+pip install -r requirements.py
+pip install setup.py
+```
+
+
+<br>
+<br>
+<br>
+
+
+# Usage
+
+Open terminal or command line and type : `justhacking`
+
+Done ! - Your fake hacking / hacking simulation setup is ready !!
+
+
+
+
