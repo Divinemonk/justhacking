@@ -47,7 +47,7 @@ git clone https://github.com/Divinemonk/justhacking/
 ```
 cd justhacking
 pip install -r requirements.py
-pip install setup.py
+python3 install setup.py
 ```
 
 
