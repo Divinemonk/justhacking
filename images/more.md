@@ -1,3 +1,5 @@
-# Image gallery
-
-| <img src="images/justhacking_img2.PNG" alt="Terminal - Just Hacking" > |
+| Image gallery |
+|-----------------------------------------------------------------|
+| <img src="justhacking_img1.PNG" alt="Terminal - Just Hacking" > |
+| <img src="justhacking_img3.PNG" alt="Terminal - Just Hacking" > |
+| <img src="justhacking_img4.PNG" alt="Terminal - Just Hacking" > |
